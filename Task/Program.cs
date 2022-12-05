@@ -29,7 +29,7 @@ if (newArray.Length <= 3)
 {
     Console.WriteLine(newArray);
 }
-else for (int i = 0; i < 3; i++)
+else for (int i = 0; i <= 3; i++)
     {
         Console.Write(newArray[i] + " ");
     }
